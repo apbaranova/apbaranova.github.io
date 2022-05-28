@@ -97,15 +97,5 @@
 </description>
     </item>
     
-    <item>
-      <title>Welcome to my blog 👋</title>
-      <link>https://example.com/post/getting-started/</link>
-      <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/getting-started/</guid>
-      <description>&lt;h2 id=&#34;about-my-last-week&#34;&gt;About my last week&lt;/h2&gt;
-&lt;p&gt;Hello and &lt;em&gt;welcome&lt;/em&gt; to my site! My life last week was just the same as the previous weeks which means I was studying a lot. I&amp;rsquo;ve spend a lot of time working on my &lt;strong&gt;labs for Operating systems&lt;/strong&gt;. I hope I will be able to study better and faster soon so I will have more time for the other subjects which are important too.&lt;/p&gt;
-</description>
-    </item>
-    
   </channel>
 </rss>
